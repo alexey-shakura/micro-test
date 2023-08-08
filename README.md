@@ -1,4 +1,4 @@
-To launch the provided code, you can follow these steps:
+To launch the application follow the steps: 
 
 1. **Install Node.js and npm:**
    If you haven't already, make sure you have Node.js and npm installed on your machine. You can download them from the official Node.js website: https://nodejs.org. The project is made on Node v16.17.0 and npm v8.15.0 but may try newer versions
